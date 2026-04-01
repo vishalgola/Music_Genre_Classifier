@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-
+This project is a **Deep Learning-based Music Genre Classifier** that predicts the genre of an audio file using Mel Spectrograms and a trained neural network.
 
 Built with an end-to-end pipeline — from **audio preprocessing to model prediction and deployment using Streamlit**, this project demonstrates practical application of AI in music analysis.
 
