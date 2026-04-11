@@ -20,6 +20,12 @@ Built with an end-to-end pipeline — from **audio preprocessing to model predic
 
 ## 🧠 How It Works
 
+1. Audio file is uploaded by the user
+2. Audio is split into chunks (4s with overlap)
+3. Each chunk is converted into a **Mel Spectrogram**
+4. Spectrograms are resized and passed into the model
+5. Model predicts genre for each chunk
+6. Top 3 most frequent predictions are returned
 
 ---
 
