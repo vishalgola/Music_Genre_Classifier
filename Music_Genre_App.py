@@ -159,4 +159,6 @@ elif app_mode== "Prediction":
         label = ['blues', 'classical','country','disco','hiphop','jazz','metal','pop','reggae','rock']
         st.markdown("### 🎯 Model Predictions (Top 3):")
 
-        
+        for i, idx in enumerate(result_index, 1):
+            genre = label[idx]
+            st.markdown(f"**{i}.** 🎵 Music Genre → :red[{genre}]")
