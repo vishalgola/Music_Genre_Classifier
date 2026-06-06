@@ -18,7 +18,6 @@ Built with an end-to-end pipeline — from **audio preprocessing to model predic
 
 ---
 
-## 🧠 How It Works
 
 1. Audio file is uploaded by the user
 2. Audio is split into chunks (4s with overlap)
