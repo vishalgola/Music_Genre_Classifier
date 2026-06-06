@@ -8,6 +8,7 @@ Built with an end-to-end pipeline — from **audio preprocessing to model predic
 
 ---
 
+## 🎯 Key Features
 
 * 🎧 Upload `.mp3` audio files for prediction
 * 🔍 Automatic feature extraction using **Mel Spectrograms**
