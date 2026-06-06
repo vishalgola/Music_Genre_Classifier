@@ -29,7 +29,6 @@ Built with an end-to-end pipeline — from **audio preprocessing to model predic
 
 ---
 
-## 🛠️ Tech Stack
 
 * **Python**
 * **TensorFlow / Keras**
