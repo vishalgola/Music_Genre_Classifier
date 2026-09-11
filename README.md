@@ -2,7 +2,6 @@
 
 ## 🚀 Overview
 
-
 Built with an end-to-end pipeline — from **audio preprocessing to model prediction and deployment using Streamlit**, this project demonstrates practical application of AI in music analysis.
 
 ---
